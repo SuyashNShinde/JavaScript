@@ -91,7 +91,7 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Lato", sans-serif}
     <i class="fa fa-twitter w3-hover-opacity"></i>
     <i class="fa fa-linkedin w3-hover-opacity"></i>
  </div>
- <p>Designed by <a href="https://www.w3schools.com/w3css/default.asp" target="_blank">Suyash</a></p>
+ <p>Designed by Suyash</a></p>
 </footer>
 
 <script>
